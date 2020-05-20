@@ -1,9 +1,13 @@
 {
   "name": "storybook-svgr-react-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This plugin aims to have the same CRA useful behaviour on Storybook regarding SVG.",
   "main": "index.js",
-  "repository": "git@github.com:Negan1911/storybook-svgr-react-component.git",
+  "bugs": {
+    "url": "https://github.com/Negan1911/storybook-svgr-react-component/issues"
+  },
+  "homepage": "https://github.com/Negan1911/storybook-svgr-react-component",
+  "repository": "https://github.com/Negan1911/storybook-svgr-react-component",
   "author": "Nahuel Veron <nahuelav96@gmail.com>",
   "license": "MIT",
   "dependencies": {
